@@ -1,5 +1,9 @@
 # New-2playersGame-2dices
 
+![gamegithub 2dices](https://user-images.githubusercontent.com/53740747/66528325-d096fb00-ead5-11e9-8bda-69491d6443c1.PNG)
+
+
+
 GAME RULES:
 
 
